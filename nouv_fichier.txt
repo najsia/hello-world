@@ -1,1 +1,6 @@
 Nouveau fichier ! 
+Dear sailors, We have one hour left in our journey, now is the time to login to your account to rate your sail !
+this is the procedure to login to your sail account,
+first, you have to insert your username, if you don't know what your username is, please refer to your ticket, it's the 6 character number in the right side of your ticket
+then you press enter, you'll have a 5 minutes survey to rate your sail
+
